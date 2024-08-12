@@ -2,7 +2,7 @@
 - 👀 I’m interested in geography
 - 🌱 I’m currently learning advanced web dev and Pygame
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I am a kid
+- ⚡ Fun fact: I am a kid.
 
 <!---
 FunnyRoboMonkey/FunnyRoboMonkey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
