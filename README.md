@@ -3,8 +3,11 @@
 - 🌱 I’m currently learning advanced web dev and Pygame as well as how to use VSC to create working sites.
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am a kid.
-
+<!--START_SECTION:waka-->
 {{ wakatimeDoubleCategoryBar "Languages:" wakatimeData.Languages "Projects:" wakatimeData.Projects 5 }}
+<!--END_SECTION:waka-->
+
+
 <!---
 FunnyRoboMonkey/FunnyRoboMonkey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
