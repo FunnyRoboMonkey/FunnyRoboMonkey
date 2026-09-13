@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @FunnyRoboMonkey
 - 👀 I’m interested in geography
-- 🌱 I’m currently learning advanced web dev and Pygame as well as how to use VSC to create working sites.
+- 🌱 I’m currently working on a clone of the New York Times Games
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I am a kid.
-<!--START_SECTION:waka-->
-{{ wakatimeDoubleCategoryBar "Languages:" wakatimeData.Languages "Projects:" wakatimeData.Projects 5 }}
-<!--END_SECTION:waka-->
+
 
 
 <!---
